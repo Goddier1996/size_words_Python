@@ -1,4 +1,4 @@
-# size words app - python
+# size words app - python 
 in this app you need input words,and you can see how much words or letters or space in your input.
 
 
