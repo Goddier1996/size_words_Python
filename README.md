@@ -1,6 +1,9 @@
 # size words app - python 
 in this app you need input words,and you can see how much words or letters or space in your input.
 
+video project :
+
+https://user-images.githubusercontent.com/59862302/179349018-5f5dc332-075a-48b2-973f-23d2240aeb90.mp4
 
 clear app page :
                                         
